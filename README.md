@@ -1,2 +1,3 @@
 # Coursera_Capstone
-This is a repository for the Capstone Project in IBM Data Science Course
+This repository contains the peer-graded assignment for "Applied Data Science Capstone" from Coursera.
+https://www.coursera.org/learn/applied-data-science-capstone/home/info
